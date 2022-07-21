@@ -2,7 +2,7 @@
 Analysis of ride-sharing data by city using pandas and matplotlib
 
 ## Project Overview
-In this challenge, we will be creating a summary DataFrame of the key metrics for the ride-sharing data by city type. We will Pandas functions such as pivot and resample with Matplotlib to create a multiple-line graph that shows the total fares for each week by city type. Finally, a report on the results of the new analysis, will be written.
+In this challenge, we will be creating a summary DataFrame of the key metrics for the ride-sharing data by city type. We will be using Pandas functions such as pivot and resample with Matplotlib to create a multiple-line graph that shows the total fares for each week by city type. Finally, a report on the results of the new analysis, will be written.
 
 
 ## Purpose
