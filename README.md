@@ -26,15 +26,15 @@ Data Source:
 
 ## Data Visualization
 
-#### City Type (Pie Plot Chart)
+##### City Type (Pie Plot Chart)
 
 <img width="359" alt="Screen Shot 2022-07-20 at 8 20 35 PM" src="https://user-images.githubusercontent.com/107282754/180109393-ff7d1ad8-e4a2-4378-9549-fabae43f1b69.png">
 
-#### Histogram for the distribution of "driver_count"
+##### Histogram for the distribution of "driver_count"
 
 <img width="429" alt="Screen Shot 2022-07-20 at 8 20 52 PM" src="https://user-images.githubusercontent.com/107282754/180109479-89e40618-f973-420f-9d5c-e02eb15f84a6.png">
 
-### Ride Data DataFrame
+##### Ride Data DataFrame
 
   <img width="438" alt="Screen Shot 2022-07-20 at 8 21 15 PM" src="https://user-images.githubusercontent.com/107282754/180109534-b633a741-b407-4670-a782-7a100929915d.png">
   
