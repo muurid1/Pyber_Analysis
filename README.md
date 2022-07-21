@@ -4,9 +4,6 @@ Analysis of ride-sharing data by city using pandas and matplotlib
 ## Project Overview
 In this challenge, we will be creating a summary DataFrame of the key metrics for the ride-sharing data by city type. We will be using Pandas functions such as pivot and resample with Matplotlib to create a multiple-line graph that shows the total fares for each week by city type. Finally, a report on the results of the new analysis, will be written.
 
-
-## Purpose
-
 ## Resources
 
 Software:
@@ -28,10 +25,6 @@ Data Source:
 [ride_data.csv](https://github.com/muurid1/Pyber_Analysis/files/9146068/ride_data.csv)
 
 ## Data Visualization
-
-The ride-sharing summary by city type shows: the Total Rides, Total Drivers, the Total Fares, the Average Fare per Ride, and the Average Fare per Driver
-
-<img width="711" alt="Screen Shot 2022-07-20 at 8 38 27 PM" src="https://user-images.githubusercontent.com/107282754/180111173-20d13bb8-4f4d-45e7-af1f-d61cb966e808.png">
 
 #### City Type (Pie Plot Chart)
 
